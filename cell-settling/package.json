@@ -1,0 +1,14 @@
+{
+  "name": "@spatac/cell-settling",
+  "main": "0f80b38534982601@3380.js",
+  "version": "3380.0.0",
+  "homepage": "https://observablehq.com/@spatac/cell-settling",
+  "author": {
+    "name": "spatac",
+    "url": "https://observablehq.com/@spatac"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
