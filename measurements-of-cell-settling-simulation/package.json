@@ -1,0 +1,14 @@
+{
+  "name": "@spatac/measurements-of-cell-settling-simulation",
+  "main": "ec131d3f1959376f@5333.js",
+  "version": "5333.0.0",
+  "homepage": "https://observablehq.com/@spatac/measurements-of-cell-settling-simulation",
+  "author": {
+    "name": "spatac",
+    "url": "https://observablehq.com/@spatac"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
